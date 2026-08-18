@@ -74,6 +74,48 @@ The Tableau analysis consists of five connected dashboards:
 | 4. Country Deep Dive     | Investigate country-level product and discount patterns                |
 | 5. Action & Impact       | Evaluate potential pricing and cost-management scenarios               |
 
+## 📈 Dashboard Walkthrough
+
+### 1. EU Market Profitability Overview
+
+![EU Market Profitability Overview](01_eu_market_overview.png)
+
+Provides an overview of profitability across countries, product categories and customer segments, establishing the starting point for further investigation.
+
+---
+
+### 2. Loss Concentration Analysis
+
+![Loss Concentration Analysis](02_loss_concentration.png)
+
+Identifies **Denmark, Ireland, the Netherlands, Portugal and Sweden** as the five loss-making markets. Segment-level analysis shows losses across all three customer segments, shifting the investigation towards product-level drivers.
+
+---
+
+### 3. Profitability Driver Analysis
+
+![Profitability Driver Analysis](03_profitability_driver_analysis.png)
+
+Examines discount, quantity and cost patterns across the five underperforming markets. The analysis indicates that **discount pressure and operating costs** are important contributors to poor profitability.
+
+---
+
+### 4. Loss Driver Deep Dive
+
+![Loss Driver Deep Dive](04_loss_driver_deep_dive.png)
+
+Drills into the major loss-making product groups. **Bookcases, Appliances, Copiers, Storage and Tables** emerge as key areas for intervention, with losses associated with cost and discount pressures.
+
+---
+
+### 5. Profit Recovery Validation
+
+![Profit Recovery Validation](05_profit_recovery_validation.png)
+
+Evaluates the proposed scenario of a **15% cost reduction and a 50% reduction in the original discount level** for targeted problem areas.
+
+Under the scenario, overall profit improves from approximately **−€70K to +€3K**, representing approximately **€73K in potential profit recovery**.
+
 ## 💡 Key Findings
 
 * Five European markets were consistently loss-making.
